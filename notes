@@ -1,0 +1,10 @@
+1. Criar packge.json
+$ npm init -y
+
+2. Instalar dependências
+$ npm install typescript webpack webpack-cli ts-loader --save-dev
+
+3. Criar tsconfig.json
+$ npx tsc --init
+
+4. Ajustar tsconfig.json
